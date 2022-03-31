@@ -14,7 +14,7 @@
                   <div class="row">
                     <div class="col">
                       <div class="slider-contain">
-                        <div>
+                        <div class="banner-content">
                           <h4>{{ item.title }}</h4>
                           <h1>{{ item.subtitle }}</h1>
                           <a href class="btn btn-solid">shop now</a>

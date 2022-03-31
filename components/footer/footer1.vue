@@ -8,8 +8,8 @@
               <div class="col-lg-6">
                 <div class="subscribe">
                   <div>
-                    <h4>KNOW IT ALL FIRST!</h4>
-                    <p>Never Miss Anything From mykids By Signing Up To Our Newsletter.</p>
+                    <h4>Get all the details</h4>
+                    <p>Get all our latest specials and freebees when you sign up to our newsletter.</p>
                   </div>
                 </div>
               </div>
@@ -49,7 +49,7 @@
                 <div class="footer-logo">
                   <img :src='"@/assets/images/icon/logo.png"' alt="logo" />
                 </div>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</p>
+                <p>Above all, Stuck On You is a business run by parents for parents. Like you, we are in the thick of the joyful chaos that is raising children. </p>
                 <div class="footer-social">
                   <ul>
                     <li>
@@ -59,22 +59,7 @@
                     </li>
                     <li>
                       <a href="#">
-                        <i class="fa fa-google-plus" aria-hidden="true"></i>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i class="fa fa-twitter" aria-hidden="true"></i>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
                         <i class="fa fa-instagram" aria-hidden="true"></i>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i class="fa fa-rss" aria-hidden="true"></i>
                       </a>
                     </li>
                   </ul>
@@ -84,24 +69,21 @@
             <div class="col offset-xl-1">
               <div class="sub-title">
                 <div class="footer-title">
-                  <h4>my account</h4>
+                  <h4>Help & general info</h4>
                 </div>
                 <div class="footer-contant">
                   <ul>
                     <li>
-                      <a href="#">mens</a>
+                      <a href="#">Delivery Information</a>
                     </li>
                     <li>
-                      <a href="#">womens</a>
+                      <a href="#">Returns</a>
                     </li>
                     <li>
-                      <a href="#">clothing</a>
+                      <a href="#">Help & FAQ</a>
                     </li>
                     <li>
-                      <a href="#">accessories</a>
-                    </li>
-                    <li>
-                      <a href="#">featured</a>
+                      <a href="#">Contact Us</a>
                     </li>
                   </ul>
                 </div>
@@ -110,24 +92,18 @@
             <div class="col">
               <div class="sub-title">
                 <div class="footer-title">
-                  <h4>why we choose</h4>
+                  <h4>About Us</h4>
                 </div>
                 <div class="footer-contant">
                   <ul>
                     <li>
-                      <a href="#">shipping & return</a>
+                      <a href="#">Our Story</a>
                     </li>
                     <li>
-                      <a href="#">secure shopping</a>
+                      <a href="#">Terms & Conditions</a>
                     </li>
                     <li>
-                      <a href="#">gallary</a>
-                    </li>
-                    <li>
-                      <a href="#">affiliates</a>
-                    </li>
-                    <li>
-                      <a href="#">contacts</a>
+                      <a href="#">Privacy Policy</a>
                     </li>
                   </ul>
                 </div>
@@ -141,17 +117,14 @@
                 <div class="footer-contant">
                   <ul class="contact-list">
                     <li>
-                      <i class="fa fa-map-marker"></i>mykids Demo Store, Demo store India 345-659
+                      <i class="fa fa-map-marker"></i>New Zealand
                     </li>
                     <li>
-                      <i class="fa fa-phone"></i>Call Us: 123-456-7898
+                      <i class="fa fa-phone"></i>Call Us: 021 925 682
                     </li>
                     <li>
                       <i class="fa fa-envelope-o"></i>Email Us:
-                      <a href="#">Support@Fiot.com</a>
-                    </li>
-                    <li>
-                      <i class="fa fa-fax"></i>Fax: 123456
+                      <a href="#">info@storename.com</a>
                     </li>
                   </ul>
                 </div>
