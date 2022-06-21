@@ -54,7 +54,21 @@ Author URI: https://themeforest.net/user/pixelstrap
 /* 28. Dark CSS */
 /* 29. Responsive CSS */
 
+/*=====================
+0.Custom
+==========================*/
 
+.step-title {
+  background: #fafafa;
+  padding: 10px;
+  border-radius: 8px;
+  font-size: 18px;
+  font-weight: 300;
+    .color-variant{
+      color: var(--theme-deafult);
+      text-transform: uppercase;
+    }
+}
 
 /*=====================
 1.General CSS start
@@ -9469,8 +9483,8 @@ margin-top: 10px;
 margin-bottom: 10px;
 ul {
   li {
-    height: 35px;
-    width: 35px;
+    height: 65px;
+    width: 65px;
     border-radius: 50%;
     margin-right: 10px;
     cursor: pointer;

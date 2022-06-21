@@ -119,14 +119,8 @@
                     <span class="color-variant">Step 2 </span
                     ><span>Select Font</span>
                   </h6>
-                <ul class="inline mt-4">
-                  <li class="mr-2"><img :src='"@/assets/images/labels/fonts/Balloon.png"' alt="logo" /></li>
-                  <li class="mr-2"><img :src='"@/assets/images/labels/fonts/BlockHead.png"' alt="logo" /></li>
-                  <li class="mr-2"><img :src='"@/assets/images/labels/fonts/FancyPants.png"' alt="logo" /></li>
-                  <li class="mr-2"><img :src='"@/assets/images/labels/fonts/OldSchool.png"' alt="logo" /></li>
-                  <li class="mr-2"><img :src='"@/assets/images/labels/fonts/Simple.png"' alt="logo" /></li>
-                  <li class="mr-2"><img :src='"@/assets/images/labels/fonts/Type.png"' alt="logo" /></li>
-                  <!-- <li
+                <ul class="color-variant mt-4">
+                  <li
                     v-bind:class="{ active: activeColor == variant }"
                     v-for="(variant, variantIndex) in Color(getDetail.variants)"
                     :key="variantIndex"
@@ -142,7 +136,7 @@
                         )
                       "
                     ></a>
-                  </li> -->
+                  </li>
                 </ul>
                 </div>
 
@@ -153,12 +147,7 @@
                   </h6>
                   <div class="size-box">
                     <ul>
-                  <li class="mr-3"><img :src='"@/assets/images/labels/1/Blue.png"' alt="logo" /></li>
-                  <li class="mr-3"><img :src='"@/assets/images/labels/1/BlueWave.png"' alt="logo" /></li>
-                  <li class="mr-3"><img :src='"@/assets/images/labels/1/BonBonPink.png"' alt="logo" /></li>
-                  <li class="mr-3"><img :src='"@/assets/images/labels/1/Diva.png"' alt="logo" /></li>
-                  <li class="mr-3"><img :src='"@/assets/images/labels/1/RipplePink.png"' alt="logo" /></li>
-                      <!-- <li
+                      <li
                         class="product-title"
                         v-bind:class="{ active: selectedSize == size }"
                         v-for="(size, index) in size"
@@ -169,7 +158,7 @@
                           @click="changeSizeVariant(size)"
                           >{{ size }}</a
                         >
-                      </li> -->
+                      </li>
                     </ul>
                   </div>
                 </div>

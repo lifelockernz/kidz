@@ -2,7 +2,7 @@
     "data": [
         {
             "id": 1,
-            "title": "name labels test",
+            "title": "name labels",
             "description": "Our Mixed Shape Labels offer versatility to cater to a variety of needs. With several sizes to choose from, you can put a Mini Label on a pencil, a Medium Label on a book, a Square Label on a round hole (or vice versa if you’re the type who, ahem, thinks outside the square).",
             "type": "fashion",
             "brand": "nike",
@@ -32,43 +32,51 @@
                     "image_id": 111
                 },
                 {
-                    "variant_id": 101,
+                    "variant_id": 102,
                     "id": 1,
                     "sku": "sku2",
-                    "size": "m",
+                    "size": "s",
                     "color": "white",
-                    "image_id": 111
+                    "image_id": 112
                 },
                 {
-                    "variant_id": 101,
+                    "variant_id": 103,
                     "id": 1,
                     "sku": "sku3",
-                    "size": "l",
+                    "size": "s",
                     "color": "pink",
-                    "image_id": 111
+                    "image_id": 113
                 },
                 {
-                    "variant_id": 101,
+                    "variant_id": 104,
                     "id": 1,
                     "sku": "sku4",
-                    "size": "xL",
+                    "size": "m",
                     "color": "yellow",
-                    "image_id": 111
+                    "image_id": 114
                 },
                 {
-                    "variant_id": 101,
+                    "variant_id": 105,
                     "id": 1,
                     "sku": "sku5",
-                    "size": "XXL",
-                    "color": "green",
-                    "image_id": 111
+                    "size": "m",
+                    "color": "white",
+                    "image_id": 112
                 },
                 {
-                    "variant_id": 101,
+                    "variant_id": 106,
                     "id": 1,
                     "sku": "sku5",
-                    "size": "XXXL",
-                    "color": "blue",
+                    "size": "m",
+                    "color": "pink",
+                    "image_id": 113
+                },
+                {
+                    "variant_id": 107,
+                    "id": 1,
+                    "sku": "sku1",
+                    "size": "l",
+                    "color": "yellow",
                     "image_id": 111
                 }
             ],
@@ -80,6 +88,24 @@
                     "src": "name-labels-nz.png",
                     "variant_id": [
                         101
+                    ]
+                },
+                {
+                    "image_id": 112,
+                    "id": 1,
+                    "alt": "white",
+                    "src": "lunar.png",
+                    "variant_id": [
+                        102
+                    ]
+                },
+                {
+                    "image_id": 113,
+                    "id": 1,
+                    "alt": "pink",
+                    "src": "c_large_designer_labels_tiger.png",
+                    "variant_id": [
+                        103
                     ]
                 }
             ]

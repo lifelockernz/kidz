@@ -83,6 +83,7 @@ const _260486c6 = () => interopDefault(import('../pages/shop/home/components/pro
 const _1e70c202 = () => interopDefault(import('../pages/shop/home/components/slider.vue' /* webpackChunkName: "pages/shop/home/components/slider" */))
 const _572bb563 = () => interopDefault(import('../pages/collection/leftsidebar/_id.vue' /* webpackChunkName: "pages/collection/leftsidebar/_id" */))
 const _62dd973a = () => interopDefault(import('../pages/product/sidebar/_id.vue' /* webpackChunkName: "pages/product/sidebar/_id" */))
+const _13aa64c2 = () => interopDefault(import('../pages/product/sidebar/_id copy.vue' /* webpackChunkName: "pages/product/sidebar/_id copy" */))
 const _7fcc074e = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
 
 const emptyFn = () => {}
@@ -412,6 +413,10 @@ export const routerOptions = {
     path: "/product/sidebar/:id?",
     component: _62dd973a,
     name: "product-sidebar-id"
+  }, {
+    path: "/product/sidebar/:id%20copy?",
+    component: _13aa64c2,
+    name: "product-sidebar-id copy"
   }, {
     path: "/",
     component: _7fcc074e,
